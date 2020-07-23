@@ -1,8 +1,8 @@
-# GPT-3 Tailwind CSS Code Generator [http://gtp-tailwind.com](https://gpt-tailwind.com/)
+# GPT-3 Tailwind CSS Code Generator
 
-Build Tailwind CSS code snippets using the power of OpenAI's GPT-3.
+Build Tailwind CSS code snippets using the power of OpenAI's GPT-3: [http://gtp-tailwind.com](https://gpt-tailwind.com/)
 
-Video presentation:
+Video presentation (link to youtube video):
 
 [![GTP-3 Tailwind CSS Code Generator Presentation](https://img.youtube.com/vi/QGlDuy67ROA/0.jpg)](https://www.youtube.com/watch?v=QGlDuy67ROA)
 
