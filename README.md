@@ -28,4 +28,6 @@ This is an experimental project and although we have many ideas to make it bette
 
 ## How can I use the generator from the video?
 
-Access to the generator and dashboard will be given in batches of 10-50-100 users as the generator is being developed. Properly describing what you want to build with the generator may increase your chances of getting access earlier than others.
+Access to the generator and dashboard will be given in batches of 10-50-100 users as the generator is being developed. Properly describing what you want to build with the generator may increase your chances of getting access earlier than others. Sign up here: [https://gpt-tailwind.com/](https://gpt-tailwind.com/).
+
+GPT-3 Tailwind CSS Code Generator is developed and maintained by [Themesberg](https://themesberg.com).
